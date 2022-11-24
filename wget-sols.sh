@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 mkdir -p solutions
 cd solutions
 
